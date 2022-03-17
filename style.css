@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+img{
+    width: 500px;
+    height: 400px;
+}
+main{
+    background-color: aqua;
+    width: 800px;
+}
+h1{
+    background-color:rgb(239, 255, 16) ;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-family: 游明朝体,serif;
+}
+div{
+    background-color: antiquewhite;
+    width: 800px;
+}
+li{
+    margin-top: 10px;
+}
